@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving real-world problems through technology.
 - 🌱 I’m currently focusing on projects with Machine Learning, NLP & Deep Learning.
 - 💞️ I’m looking to collaborate with live projects in Finance, Retail, Healthcare & FMCG sectors.
-- 📫 Connect with me on https://www.linkedin.com/in/deepak-regonda-102689bb.
+- 📫 Connect with me on https://www.linkedin.com/in/deepakregonda97/.
 
 <!---
 DDataRep27/DDataRep27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
