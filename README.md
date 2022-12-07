@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deepak Regonda, a Budding Data Scientist.
-- 👀 I’m interested in solving real-world problems through technology.
-- 🌱 I’m currently focusing on projects with Machine Learning, NLP & Deep Learning.
-- 💞️ I’m looking to collaborate with live projects in Finance, Retail, Healthcare & FMCG sectors.
+- 👀 I’m interested in solving real-world problems through applied statistics, machine learning techniques and tools.
+- 🌱 I’m currently focusing on projects into Machine Learning, NLP & Deep Learning.
+- 💞️ I’m looking to collaborate with live projects in my interested areas of Finance, Healthcare & Pharma, FMCG, Automobile & Renewable energy sectors.
 - 📫 Connect with me on https://www.linkedin.com/in/deepakregonda97/.
 
 <!---
